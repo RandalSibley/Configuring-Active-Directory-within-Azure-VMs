@@ -32,10 +32,13 @@ In this last video, I will complete this example by deleting all resource groups
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Creating resource groups in Azure
+- Use Remote Desktop to connect with the VM
+- Install Active Directory
+- Join the Client-1 VM to the domain (randy.com)
+- Create new organizational units 
+- Create additional users using PowerShell_ise
+- Delete all resource groups from Azure
 
 <h2>Deployment and Configuration Steps</h2>
 
