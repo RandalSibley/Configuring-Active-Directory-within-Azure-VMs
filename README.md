@@ -40,7 +40,7 @@ In this last video, I will complete this example by deleting all resource groups
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/n2uKckw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this photo I am creating a virtual network with two virtual machines. One VM as the domain controller (DC) on the Windows 2022 server, and the other VM as the Client on Windows 10 pro.
@@ -48,7 +48,7 @@ In this photo I am creating a virtual network with two virtual machines. One VM 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Bq2wVab.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this photo I am setting Client-1’s DNS settings to the domain controllers private IP address. 
@@ -56,7 +56,7 @@ In this photo I am setting Client-1’s DNS settings to the domain controllers p
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zFufgQ8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this photo I am deleting all resource groups from the Azure virtual network environment.
