@@ -16,9 +16,9 @@ In this last video, I will complete this example by deleting all resource groups
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute PART 1](https://www.youtube.com)
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute PART 2](https://www.youtube.com)
-- ### [YouTube: How to Delete all resource groups from the Azure after install of AD within Azure Compute](https://www.youtube.com)
+- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute PART 1](https://youtu.be/5o29MA2y5bw)
+- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute PART 2](https://youtu.be/4FW_N1XxAZM)
+- ### [YouTube: How to Delete all resource groups from the Azure after install of AD within Azure Compute](https://youtu.be/poblOYOq1jY)
  
 <h2>Environments and Technologies Used</h2>
 
